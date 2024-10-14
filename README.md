@@ -64,8 +64,6 @@ Para ejecutar estos planes de prueba, sigue los siguientes pasos:
 - Se recomienda ejecutar estas pruebas en una conexión de red estable para evitar interrupciones en los resultados.
 - Puedes modificar la URL de destino, las cabeceras o las aserciones según las necesidades de tus pruebas.
 
-## Autor
-Estos planes de prueba fueron creados y mantenidos por [Nombre del Autor/Empresa]. Para cualquier pregunta o personalización adicional, por favor contacta a [tu correo/contacto].
 
 ## Licencia
 Este repositorio está bajo la licencia [MIT License](LICENSE).
